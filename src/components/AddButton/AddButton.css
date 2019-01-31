@@ -1,0 +1,19 @@
+.input {
+  outline: none;
+  width: 60%;
+  margin-right: -20px;
+  padding-left: 5px;
+}
+
+.button {
+  background-color: #f96f01;
+  border: 0;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  color: #ffffff;
+}
+.button:hover {
+  background-color: #c45826;
+  cursor: pointer;
+}

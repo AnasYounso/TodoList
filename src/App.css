@@ -1,0 +1,49 @@
+.containter {
+  margin: 10% 30% 0 30%;
+  color: gray;
+}
+.title {
+  color: #f96f01;
+}
+
+@media only screen and (max-width: 1000px) {
+  .custom-jumborton {
+    margin: 0px auto;
+    min-width: 416px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .custom-jumborton {
+    min-width: 400px;
+    margin-left: -47px;
+  }
+}
+@media only screen and (max-width: 414px) {
+  .custom-jumborton {
+    min-width: 320px;
+    margin: 0px 0px 0px -77px;
+  }
+}
+@media only screen and (max-width: 411px) {
+  .custom-jumborton {
+    min-width: 300px;
+    margin: 0px 0px 0px -65.5px;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .custom-jumborton {
+    margin: 0px 0px 0px -75px;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .custom-jumborton {
+    margin: 0px 0px 0px -77px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .custom-jumborton {
+    margin: 0px 0px 0px -86px;
+  }
+}

@@ -1,0 +1,28 @@
+.button--delete {
+  width: 20px;
+  background: url('./logo.png') center no-repeat;
+  border: none;
+}
+
+.button--delete:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.button--hidden {
+  display: none;
+  border: solid 4px rgba(128, 128, 128, 0.712);
+  border-top: none;
+  border-left: none;
+  height: 27px;
+  width: 5px;
+  transform: rotate(45deg);
+  margin: 0px 15px 0px 15px;
+}
+
+.list__item {
+  display: flex;
+  justify-content: space-around;
+  margin: 5px 0px 5px 0px;
+  border-left: solid 5px #f96f01;
+}
